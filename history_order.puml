@@ -23,7 +23,7 @@ entity Order {
 * total_weigth INT
 * total_product_amount BIGINT
 * total_shipping_cost BIGINT
-* total_shipping_amount BIGINT
+* total_shopping_amount BIGINT
 * service_charge BIGINT
 * total_amount BIGINT
 }
